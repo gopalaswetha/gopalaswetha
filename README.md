@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopala Swetha</h1>
-<h3 align="center">A passionate Full Stack Web Development from India</h3>
+<h3 align="center">Pursuing opportunity which will allow me to grow professionally, while effectively utilizing my versatile skill set to help promote your corporate mission and exceed team goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalaswetha&label=Profile%20views&color=0e75b6&style=flat" alt="gopalaswetha" /> </p>
 
