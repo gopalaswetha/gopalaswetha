@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalaswetha&label=Profile%20views&color=0e75b6&style=flat" alt="gopalaswetha" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Wb Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **gopalaswetha11@gmail.com**
 
